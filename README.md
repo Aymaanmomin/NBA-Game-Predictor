@@ -42,11 +42,19 @@ A Python-based desktop application using **Tkinter** and the **nba_api** that pr
 - `NBA Logos/` directory containing 140x140 PNG images named after team full names (e.g., `Boston Celtics.png`).
 
 ---
+📷 Screenshots
 
-## 📦 Installation
+<img width="942" alt="Screenshot 2025-05-14 at 8 51 35 PM" src="https://github.com/user-attachments/assets/faf3f212-5160-4f56-b596-2f3a08ea3a9b" /><br><br>
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+<img width="992" alt="Screenshot 2025-05-14 at 8 52 33 PM" src="https://github.com/user-attachments/assets/3ba7f25b-1da3-4c56-9321-b9a143319c3d" /><br><br>
+
+
+<img width="335" alt="Screenshot 2025-05-14 at 8 53 06 PM" src="https://github.com/user-attachments/assets/01861a34-ea60-4f8d-9d39-f260770c4369" /><br><br>
+
+---
+👤 Author
+
+Aymaan Momin <br><br>
+GitHub: @Aymaanmomin
+---
