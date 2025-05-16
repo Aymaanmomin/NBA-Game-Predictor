@@ -39,8 +39,8 @@ def calculate_custom_score(avg_stats):
         0.25 * avg_stats['PTS'] + 0.15 * avg_stats['AST'] + 0.05 * avg_stats['BLK'] +
         0.15 * (avg_stats['FTA'] * avg_stats['FT_PCT']) +
         0.2 * (avg_stats['FG3A'] * avg_stats['FG3_PCT']) +
-        0.1 * avg_stats['OREB'] + 0.075 * avg_stats['DREB'] -
-        (0.2 * avg_stats['TOV'] + 0.75 * (avg_stats['PTS_ALLOWED'] - avg_stats['PTS']))
+        0.15 * avg_stats['OREB'] + 0.075 * avg_stats['DREB'] -
+        (0.2 * avg_stats['TOV'] + 0.5 * (avg_stats['PTS_ALLOWED'] - avg_stats['PTS']))
     )
     return round(score, 2)
 
